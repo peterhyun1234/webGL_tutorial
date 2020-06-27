@@ -9,7 +9,10 @@
 
  ## 1. Project description
 ### 1.1. Contents
-    Going further from the WEBGL image textures learned in the subject, you can insert videos into cubes through video textures I created a function that can be played back, and based on this, I made a tutorial to help other colleagues learn.
+    Going further from the WEBGL image textures learned in the subject, 
+    you can insert videos into cubes through video textures 
+    I created a function that can be played back, and based on this, 
+    I made a tutorial to help other colleagues learn.
 <br/>
 
 #### 1.1.1. Description of service
@@ -19,7 +22,8 @@
 #### 1.1.3. References
 ![3](https://user-images.githubusercontent.com/46476398/85922170-30c80a00-b8bc-11ea-8240-b3aa51bb8191.png)
 ### Improvement List
-	I tried to implement the ability to insert a video on each of the six sides of the cube, but it didn't work. I hope to try it out next time.
+	I tried to implement the ability to insert a video on each of the six sides of the cube, 
+	but it didn't work. I hope to try it out next time.
 <br/>
 
  ## 2. Video mapping details
